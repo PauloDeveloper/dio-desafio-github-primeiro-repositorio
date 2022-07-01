@@ -72,4 +72,14 @@
 
 + git status (Essencial para verificar o status do diretório, se foram adicionados ou commitados)
 
+### GIT / GITHUB COMANDOS:
+
+1. git status (verifica a situação dos commits)
+
+2. git remote add origin (+ o enderço do github, pode ser SSH ou HTTPS)
+
+3. git remote --v (verifica a lista de URLs do repositório remoto)
+
+4. git push origin main  ("origin" - nome da branch dado a url remota, "main" nome da branch do repositório do github)
+
 
